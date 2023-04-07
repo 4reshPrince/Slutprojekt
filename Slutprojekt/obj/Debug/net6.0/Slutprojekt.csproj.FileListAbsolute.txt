@@ -1,0 +1,15 @@
+C:\Users\torell.jordan\Documents\Prog2\Slutprojekt\Slutprojekt\obj\Debug\net6.0\Slutprojekt.csproj.AssemblyReference.cache
+C:\Users\torell.jordan\Documents\Prog2\Slutprojekt\Slutprojekt\obj\Debug\net6.0\Slutprojekt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\torell.jordan\Documents\Prog2\Slutprojekt\Slutprojekt\obj\Debug\net6.0\Slutprojekt.AssemblyInfoInputs.cache
+C:\Users\torell.jordan\Documents\Prog2\Slutprojekt\Slutprojekt\obj\Debug\net6.0\Slutprojekt.AssemblyInfo.cs
+C:\Users\torell.jordan\Documents\Prog2\Slutprojekt\Slutprojekt\obj\Debug\net6.0\Slutprojekt.csproj.CoreCompileInputs.cache
+C:\Users\torell.jordan\Documents\Prog2\Slutprojekt\Slutprojekt\bin\Debug\net6.0\Slutprojekt.exe
+C:\Users\torell.jordan\Documents\Prog2\Slutprojekt\Slutprojekt\bin\Debug\net6.0\Slutprojekt.deps.json
+C:\Users\torell.jordan\Documents\Prog2\Slutprojekt\Slutprojekt\bin\Debug\net6.0\Slutprojekt.runtimeconfig.json
+C:\Users\torell.jordan\Documents\Prog2\Slutprojekt\Slutprojekt\bin\Debug\net6.0\Slutprojekt.dll
+C:\Users\torell.jordan\Documents\Prog2\Slutprojekt\Slutprojekt\bin\Debug\net6.0\Slutprojekt.pdb
+C:\Users\torell.jordan\Documents\Prog2\Slutprojekt\Slutprojekt\obj\Debug\net6.0\Slutprojekt.dll
+C:\Users\torell.jordan\Documents\Prog2\Slutprojekt\Slutprojekt\obj\Debug\net6.0\refint\Slutprojekt.dll
+C:\Users\torell.jordan\Documents\Prog2\Slutprojekt\Slutprojekt\obj\Debug\net6.0\Slutprojekt.pdb
+C:\Users\torell.jordan\Documents\Prog2\Slutprojekt\Slutprojekt\obj\Debug\net6.0\Slutprojekt.genruntimeconfig.cache
+C:\Users\torell.jordan\Documents\Prog2\Slutprojekt\Slutprojekt\obj\Debug\net6.0\ref\Slutprojekt.dll
