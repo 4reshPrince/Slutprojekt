@@ -9,7 +9,7 @@ u.ReadUsername();
 
 string stat = "";
 
-while (stat != "strength" && stat != "endurence" && stat != "agility")
+while (stat != "strength" && stat != "endurance" && stat != "agility")
 {
     Console.WriteLine($"Player Name: {u.name}");
     Console.WriteLine();
@@ -20,7 +20,7 @@ while (stat != "strength" && stat != "endurence" && stat != "agility")
     Console.WriteLine("Strength");
     Console.WriteLine();
 
-    Console.WriteLine("Endurence");
+    Console.WriteLine("Endurance");
     Console.WriteLine();
 
     Console.WriteLine("Agility");
@@ -35,7 +35,35 @@ while (stat != "strength" && stat != "endurence" && stat != "agility")
 
 if (stat == "strength")
 {
-Console.WriteLine("Stats");
+    Console.WriteLine("Strength");
+    Console.WriteLine();
+
+    //Strength – 23 Endurance - 12 Agility – 15
+    Console.WriteLine("Strength - 23");
+    Console.WriteLine("Endurance - 12");
+    Console.WriteLine("Agility - 15");
+}
+
+if (stat == "endurance")
+{
+    Console.WriteLine("Endurance");
+    Console.WriteLine();
+
+    //Strength – 15 Endurance – 23 Agility – 12
+    Console.WriteLine("Strength - 15");
+    Console.WriteLine("Endurance - 23");
+    Console.WriteLine("Agility - 12");
+}
+
+if (stat == "agility")
+{
+    Console.WriteLine("Agility");
+    Console.WriteLine();
+
+    //Strength – 12 Endurance – 15 Agility – 23
+    Console.WriteLine("Strength - 12");
+    Console.WriteLine("Endurance - 15");
+    Console.WriteLine("Agility - 23");
 }
 
 Console.ReadLine();
