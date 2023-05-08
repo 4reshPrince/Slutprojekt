@@ -4,6 +4,14 @@ class Username
 {
 
     public string name;
+    public int hp = 100;
+    public int x = 0;
+    public int y = 0;
+
+    public void Hurt(int amount)
+    {
+        hp -= amount;
+    }
 
     public void ReadUsername()
     {

@@ -6,6 +6,13 @@ Username u = new Username();
 
 u.ReadUsername();
 
+Enemy myEnemy = new Enemy();
+
+myEnemy.name = "Fatgeek";
+
+myEnemy.Hurt(3);
+myEnemy.AddExperience(12);
+
 
 string stat = "";
 
@@ -27,7 +34,7 @@ while (stat != "strength" && stat != "endurance" && stat != "agility")
     Console.WriteLine();
 
     Console.Write("Write your choice here:");
-
+    
     stat = Console.ReadLine().ToLower();
     Console.Clear();
 }
