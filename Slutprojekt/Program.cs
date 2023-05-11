@@ -11,7 +11,6 @@ Enemy myEnemy = new Enemy();
 myEnemy.name = "Fatgeek";
 
 myEnemy.Hurt(3);
-myEnemy.AddExperience(12);
 
 
 string stat = "";
